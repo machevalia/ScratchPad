@@ -1,2 +1,2 @@
 # ScratchPad
-Random Quick Hits
+Random quick notes, tips, tricks, etc. that don't fit elsewhere.
